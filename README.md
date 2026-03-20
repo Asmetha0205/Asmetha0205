@@ -36,6 +36,7 @@ Git & GitHub
 
 ## Connect with me
 
+Email: thoppeasmi@gmail.com  
 LinkedIn: https://linkedin.com/in/asmetha-thoppe-a641b62a5
 
 
