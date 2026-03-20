@@ -1,6 +1,6 @@
 # Hi, I'm Asmetha 👋
 
-I'm a 3rd year (6th sem) Computer Science student who enjoys building practical projects across web, mobile, and AI-based systems.
+I'm a 3rd year Computer Science student who enjoys building practical projects across web, mobile, and AI-based systems.
 
 
 ## What I'm currently doing
