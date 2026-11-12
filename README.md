@@ -24,6 +24,7 @@
 
 
 <img align="right" width="180" src="./assets/pixel-me.png" alt="Asmetha's pixel art avatar"/>
+
 ## 👩‍💻 About Me
 
 Hi! I'm **Asmetha Thoppe**, a Computer Science Engineering student passionate about technology, intelligent systems, and solving real-world problems through software development.
