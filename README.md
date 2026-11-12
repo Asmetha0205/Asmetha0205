@@ -22,9 +22,6 @@
 
 ---
 
-
-<img align="right" width="180" src="./assets/pixel-me.png" alt="Asmetha's pixel art avatar"/>
-
 ## 👩‍💻 About Me
 
 Hi! I'm **Asmetha Thoppe**, a Computer Science Engineering student passionate about technology, intelligent systems, and solving real-world problems through software development.
@@ -107,9 +104,9 @@ A multilingual chat application featuring translation functionality and secure a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asmetha0205&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Asmetha0205&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmetha0205&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Asmetha0205&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
