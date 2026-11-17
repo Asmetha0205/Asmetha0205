@@ -10,6 +10,9 @@
 </a>
 
 <p>
+  <a href="https://asmetha-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8E54E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/Asmetha0205">
     <img src="https://img.shields.io/badge/GitHub-Asmetha0205-181717?style=for-the-badge&logo=github" />
   </a>
@@ -24,13 +27,15 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Asmetha Thoppe**, a Computer Science Engineering student passionate about technology, intelligent systems, and solving real-world problems through software development.
+Hi! I'm **Asmetha Sureshbabu Thoppe**, a Computer Science Engineering student passionate about technology, intelligent systems, and solving real-world problems through software development.
 
 - 🤖 Interested in Artificial Intelligence and Machine Learning.
 - 📊 Exploring Data Science, Data Analytics and Big Data.
 - 💻 Building full-stack and AI-powered applications.
 - 🧠 Interested in Computer Vision and intelligent automation.
 - 🌱 Continuously learning and improving my technical skills.
+
+🌐 **Explore my work:** [Personal Portfolio](https://asmetha-portfolio.vercel.app/)
 
 ---
 
@@ -67,7 +72,8 @@ Hi! I'm **Asmetha Thoppe**, a Computer Science Engineering student passionate ab
 
 ## 🚀 Featured Projects
 
-### 1. AI Powered Study Planner & Exam Preparation System
+### 1. AI-Powered Study Planner & Exam Preparation System
+
 An AI-powered educational platform featuring personalized study planning, note summarization, quiz generation, academic doubt solving, progress tracking and gamification.
 
 **Tech:** React · Flask · Firebase · Gemini API · Hugging Face · Python
@@ -75,13 +81,15 @@ An AI-powered educational platform featuring personalized study planning, note s
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Asmetha0205/ai-assignment-tracker)
 
 ### 2. NASDAQ AI Stock Prediction System
-A Big Data and Machine Learning based stock prediction project combining predictive models with an interactive visualization dashboard.
+
+A Big Data and Machine Learning-based stock prediction project combining predictive models with an interactive visualization dashboard.
 
 **Tech:** Python · Random Forest · LSTM · Apache Spark · Hadoop · MongoDB · Streamlit
 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Asmetha0205/NASDAQ-AI-Stock-Prediction-System)
 
 ### 3. Chemical Equipment Parameter Visualizer
+
 A hybrid web and desktop application for chemical equipment parameter analysis, interactive visualizations and PDF report generation.
 
 **Tech:** React · Django REST · PyQt5 · Chart.js · Matplotlib · SQLite
@@ -89,14 +97,25 @@ A hybrid web and desktop application for chemical equipment parameter analysis, 
 [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Asmetha0205/chemical-visualizer)
 
 ### 4. Online Food Delivery System
+
 A food ordering and management application with menu management, order processing and database integration.
 
 **Tech:** Java · Swing · JDBC · MySQL · Servlets
 
-### 5. GlobeTalk AI Translator Chat App
+### 5. GlobeTalk — AI Translator Chat App
+<sub>🚧 In Development</sub>
+
 A multilingual chat application featuring translation functionality and secure authentication.
 
 **Tech:** Android · Java · Firebase
+
+---
+
+## 🏅 Hackathons & Innovation
+
+- **TransitOps** — Smart Transit Operations Platform developed for the Odoo Hackathon.
+- **AUREX** — AI-powered adaptive learning prototype developed for TetraTHON 2026 Round 1.
+- **CurricuAlign AI** — Dynamic syllabus and industry skill-gap synchronization solution developed for TetraTHON 2026 Round 2.
 
 ---
 
@@ -116,16 +135,17 @@ A multilingual chat application featuring translation functionality and secure a
 
 ---
 
-## 🏆 Certifications
+## 🎓 Certifications
 
-- AWS Data Engineering
-- AWS Machine Learning Foundations
+- AWS Academy Graduate – Data Engineering
+- AWS Academy Graduate – Machine Learning Foundations
 - AWS Academy Graduate – Machine Learning for Natural Language Processing
-- IBM AI Fundamentals
-- Simplilearn Generative AI
+- IBM Artificial Intelligence Fundamentals
+- Introduction to Generative AI – Simplilearn
 - Introduction to Model Context Protocol – Anthropic
-- HackerRank Python
-- HackerRank Problem Solving
+- Data Science Essentials with Python – Cisco Networking Academy
+- Python (Basic) – HackerRank
+- Problem Solving (Basic) – HackerRank
 
 ---
 
@@ -134,17 +154,20 @@ A multilingual chat application featuring translation functionality and secure a
 I'm always interested in connecting with people, exploring new technologies and collaborating on meaningful projects.
 
 <p align="center">
-<a href="https://github.com/Asmetha0205">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/asmetha-thoppe-a641b62a5/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://asmetha-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8E54E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Asmetha0205">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asmetha-thoppe-a641b62a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile! 💙
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8E54E9,100:20C5D8&height=100&section=footer" width="100%"/>
 
